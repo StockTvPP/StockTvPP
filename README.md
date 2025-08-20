@@ -15,6 +15,7 @@ StockTV 提供全面的实时和历史股市数据 API，涵盖全球股票、�
 ## 快速开始
 - **官网**：https://pao.stocktv.top/
 - **API文档** ：https://documenter.getpostman.com/view/42914868/2sB2ixkEZR
+- **交易所** ：https://github.com/StockTvPP/stock-exchange
 - **TG 联系方式**：https://t.me/stocktvpaopao
 
 ## 我们的优势
